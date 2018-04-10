@@ -1,0 +1,15 @@
+<style type="text/css">
+.content.clearfix.body-content{
+  display:flex;        
+  flex-flow: column;  
+}
+.offer.saleType{
+  order:1;display: none;  
+}
+.m_b.hr_b{
+  order:2;display: block;
+}
+#cross-sell .normal{
+  display: none;
+}
+</style>
