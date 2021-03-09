@@ -1,6 +1,6 @@
 # HideNormalBooking
 
-For any kind of widget
+Copy the code from styles.html and paste in TFM -> Analitycs
 
 Ex: 
 
