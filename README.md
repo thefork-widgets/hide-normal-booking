@@ -1,6 +1,6 @@
 # HideNormalBooking
 
-Copy the code from styles.html and paste in TFM -> Analitycs
+Copy the code from styles.css and paste in TFM -> Analitycs
 
 Ex: 
 
