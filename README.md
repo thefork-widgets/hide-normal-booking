@@ -1,4 +1,4 @@
-# HideNormalBooking
+# hide-normal-booking
 
 Copy the code from styles.css and paste in TFM -> Analitycs
 
